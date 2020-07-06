@@ -5,7 +5,7 @@ Tool to manage User
 
 
 
-is a  tool that allows you to query your LDAP directory without going through the classic dsa interface,
-in order to optimize the work of technicians and avoid any mishandling (accidental deletion or modification of an account,
-group, post, account of service ...).
-It runs on any workstation equipped with the RSAT tool, installation or activation of the dsa user interface is not necessary.
+AD-Info is an easy tool that protects your infrastructure and makes the work of your (IT or Helpdesk) easier.
+it is developed by Dakhama Mehdi, Rabache Olivier and Governed by DEMAN-BARCELO Thierry.
+
+
