@@ -1,7 +1,7 @@
 # AD-INFO
 Tool to manage User
 
-![AD-Info](https://user-images.githubusercontent.com/49924401/84552995-edde3200-ad12-11ea-9a3f-f5e626598484.gif)
+![ADinfo](https://user-images.githubusercontent.com/49924401/86608788-479ce980-bfab-11ea-8b68-6bd7d0404ecb.gif)
 
 
 
