@@ -6,12 +6,16 @@ Tool to manage User in the domain Active Directory
 # New Version 3
 
 * Auto-language (French-English)
-* Auto extract, no need setup 
+* Auto extract, no need setup
+* no need to install module AD 
 * very fast, compatibly Win 10 21h1, server 2019
 
 # About
 
 AD-Info is an easy tool that protects your infrastructure and makes the work of your (IT or Helpdesk) easier.
+
+# Pre-requist 
+Have permission to read AD objects
 
 # Thanks
 it is developed by Dakhama Mehdi, Rabache Olivier and Governed by DEMAN-BARCELO Thierry.
