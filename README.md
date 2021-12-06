@@ -1,4 +1,6 @@
 # AD-INFO
+Pls use the new project AD-HIT available in Microsoft Store or this page : https://github.com/dakhama-mehdi/AD-HIT
+
 Tool to manage User in the domain Active Directory
 
 ![ADinfo](https://user-images.githubusercontent.com/49924401/86608788-479ce980-bfab-11ea-8b68-6bd7d0404ecb.gif)
